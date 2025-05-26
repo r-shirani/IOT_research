@@ -8,7 +8,7 @@
 ```markdown
 # Smart Greenhouse Environment Automation Using IoT
 
-This project presents a smart greenhouse automation system using Internet of Things (IoT) technologies. It compares two hardware platforms—Netduino and MicaZ—for real-time monitoring and control of environmental factors like temperature, humidity, light, and soil moisture.
+This project presents a smart greenhouse automation system using Internet of Things (IoT) technologies. It compares two hardware platforms—Netduino and MicaZ—for real-time monitoring and controlling environmental factors like temperature, humidity, light, and soil moisture.
 
 ## 📌 Key Features
 - Automated environmental control (ventilation, irrigation, lighting)
@@ -33,9 +33,9 @@ This project presents a smart greenhouse automation system using Internet of Thi
 
 ## 🚀 Getting Started
 1. Connect sensors to Netduino or MicaZ boards.
-2. Set up cloud service or local database to store readings.
+2. Set up a cloud service or a local database to store readings.
 3. Upload code to the respective boards.
 4. Monitor and control using the provided web/mobile dashboard.
 
 ## 📄 License
-This project was completed as part of a university research paper. For academic or non-commercial use only.
+This project was completed as part of a university research paper, for academic or non-commercial use only.
